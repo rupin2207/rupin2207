@@ -1,16 +1,228 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rupin2207/rupin2207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rupin%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%7C%20Turning%20Raw%20Data%20Into%20Real%20Decisions&descAlignY=62&descSize=16)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Rupin+R+%F0%9F%91%8B;Data+Analytics+%7C+ML+%7C+Full+Stack;Python+%2B+SQL+%2B+Power+BI+Developer;Building+Pipelines+That+Actually+Work)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=rupin2207&color=70a5fd&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rupin-r)
+[![GitHub](https://img.shields.io/badge/GitHub-rupin2207-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rupin2207)
+[![Email](https://img.shields.io/badge/Email-rupinrs7%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rupinrs7@gmail.com)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```python
+class Rupin:
+    name        = "Rupin R"
+    location    = "Bengaluru, Karnataka, India"
+    degree      = "B.E Computer Science @ East Point College (2026)"
+    cgpa        = 8.41
+
+    stack = [
+        "Python", "SQL", "Java", "Power BI",
+        "Flask", "TensorFlow", "YOLOv8",
+        "MySQL", "Oracle APEX"
+    ]
+
+    currently_learning = [
+        "Advanced ML Pipelines",
+        "Cloud Data Engineering (AWS)",
+        "LLM Applications"
+    ]
+
+    fun_fact = "Built a real-time sign language translator with YOLOv8 🤟"
+
+    def motto(self):
+        return "Data tells a story — I make sure it's the right one."
+```
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Data & Analytics**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Databases & Platforms**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20APEX-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=postman&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/rupin2207">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rupin2207&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+</a>
+<a href="https://github.com/rupin2207">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupin2207&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+</a>
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rupin2207&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/rupin2207)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Rupin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rupin2207&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/rupin2207)
+
+</div>
+
+---
+
+## 🏆 Trophy Wall
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=rupin2207&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/rupin2207)
+
+</div>
+
+---
+
+## 💼 Work Experience
+
+<details>
+<summary><b>🏢 Besant Technologies — Data Analytics Intern</b> &nbsp;|&nbsp; Feb 2026 – May 2026 &nbsp;|&nbsp; Bengaluru, India</summary>
+
+<br/>
+
+> `Python` `Pandas` `NumPy` `SQL` `Power BI` `DAX` `Excel` `PivotTables`
+
+- Automated multi-format data processing pipelines using Python (Pandas, NumPy), eliminating manual preprocessing overhead across recurring data workflows.
+- Wrote advanced SQL queries — joins, aggregations, conditional filters — to extract and transform relational datasets for stakeholder reporting.
+- Built Power BI dashboards with custom DAX measures and KPI cards, making complex data accessible to non-technical audiences.
+- Developed dynamic Excel reports with conditional logic and PivotTables to track and document key metric movements over time.
+
+</details>
+
+<details>
+<summary><b>🏢 Edutainer — Business Management & Analytics Intern</b> &nbsp;|&nbsp; Feb 2026 – May 2026 &nbsp;|&nbsp; Bengaluru, India</summary>
+
+<br/>
+
+> `Oracle APEX` `SQL` `R` `CRUD Operations` `Data Reporting`
+
+- Managed cloud relational databases on Oracle APEX — executed full CRUD operations and maintained live business data for ongoing operations.
+- Produced operational reports from raw data using R, supporting data-driven process decisions in a workflow-driven environment.
+- Collaborated cross-functionally in a team project setting, taking on coordination and peer-mentoring responsibilities.
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|:--------|:------|:-----------|
+| [🤟 ISL to Regional Text Translator](https://github.com/rupin2207) | Python · Flask · YOLOv8 · TensorFlow · Google Translate API | Real-time Indian Sign Language recognition → multilingual text. Gesture-to-text pipeline using Ultralytics YOLOv8 with live webcam feed. |
+| [⚡ EV Analysis Dashboard](https://github.com/rupin2207) | Power BI · DAX · Data Visualization | Analyzed **150,000+ EV records**. Visualized BEV vs PHEV trends, CAFV eligibility, top brands, avg range, and regional market patterns with interactive filter panels. |
+| [🩸 Blood Bank Management System](https://github.com/rupin2207) | SQL · Python · Flask · HTML · CSS · JS | Secure role-based login for admins, hospitals, and donors. Optimized donor-recipient matching with SQL queries and Python-based validation logic. |
+
+</div>
+
+---
+
+## 🎖️ Achievements & Certifications
+
+<div align="center">
+
+| 🏅 | Achievement | Details |
+|:--:|:------------|:--------|
+| 🎓 | **IIT Madras Certified** | Python For Data Science — IIT Madras |
+| 🤖 | **Google Certified** | Introduction To Generative AI |
+| 📊 | **Deloitte Simulation** | Data Analytics Job Simulation via Forage |
+| ☁️ | **AWS Simulation** | Solutions Architect Job Simulation via Forage |
+| 🧠 | **Coursera Certified** | Machine Learning For All |
+| 📈 | **CGPA 8.41/10** | B.E Computer Science Engineering — East Point College |
+| 🏆 | **SSLC Score 94.72%** | Chinmaya Vidyalaya — Top academic performer |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Year | Score |
+|:-------|:------------|:----:|:-----:|
+| B.E Computer Science Engineering | East Point College of Engineering & Technology | 2022 – 2026 | 8.41 / 10 CGPA |
+| PUC (12th) | St Joseph's PU College | 2020 – 2022 | 74.8% |
+| SSLC (10th) | Chinmaya Vidyalaya | 2019 – 2020 | 94.72% |
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+```
+🧱 Cloud Data Engineering   →  AWS S3, Glue, Redshift, Lambda
+🤖 LLM Applications         →  LangChain, RAG Pipelines, Prompt Engineering
+📦 MLOps                    →  Model versioning, deployment, monitoring
+🔄 Advanced SQL              →  Window functions, CTEs, query optimization
+📊 Advanced Power BI         →  Row-level security, custom visuals, streaming datasets
+```
+
+---
+
+<div align="center">
+
+*"Data tells a story — I make sure it's the right one."*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+
+</div>
