@@ -13,7 +13,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rupin2207&color=70a5fd&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rupin-r)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/rupin-r-8a67392a2)
 [![GitHub](https://img.shields.io/badge/GitHub-rupin2207-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rupin2207)
 [![Email](https://img.shields.io/badge/Email-rupinrs7%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rupinrs7@gmail.com)
 
