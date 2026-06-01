@@ -137,8 +137,8 @@ class Rupin:
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [🤟 ISL to Regional Text Translator](https://github.com/rupin2207) | Python · Flask · YOLOv8 · TensorFlow · Google Translate API | Real-time Indian Sign Language recognition → multilingual text. Gesture-to-text pipeline using Ultralytics YOLOv8 with live webcam feed. |
-| [⚡ EV Analysis Dashboard](https://github.com/rupin2207) | Power BI · DAX · Data Visualization | Analyzed **150,000+ EV records**. Visualized BEV vs PHEV trends, CAFV eligibility, top brands, avg range, and regional market patterns with interactive filter panels. |
+| [🤟 ISL to Regional Text Translator](https://github.com/rupin2207/IndianSignLanguageToRegionalTextUsingYOLOv8) | Python · Flask · YOLOv8 · TensorFlow · Google Translate API | Real-time Indian Sign Language recognition → multilingual text. Gesture-to-text pipeline using Ultralytics YOLOv8 with live webcam feed. |
+| [⚡ EV Analysis Dashboard](https://github.com/rupin2207/EV-Vechicle-Analysis) | Power BI · DAX · Data Visualization | Analyzed **150,000+ EV records**. Visualized BEV vs PHEV trends, CAFV eligibility, top brands, avg range, and regional market patterns with interactive filter panels. |
 | [🩸 Blood Bank Management System](https://github.com/rupin2207) | SQL · Python · Flask · HTML · CSS · JS | Secure role-based login for admins, hospitals, and donors. Optimized donor-recipient matching with SQL queries and Python-based validation logic. |
 
 </div>
