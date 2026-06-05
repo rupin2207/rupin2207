@@ -152,13 +152,6 @@ class Rupin:
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-[![Rupin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rupin2207&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/rupin2207)
-
-</div>
 
 ---
 
