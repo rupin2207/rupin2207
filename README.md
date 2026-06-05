@@ -150,10 +150,7 @@ class Rupin:
 
 </div>
 
----
 
-
----
 
 <div align="center">
 
