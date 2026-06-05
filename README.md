@@ -118,6 +118,7 @@ class Rupin:
 | [🤟 ISL to Regional Text Translator](https://github.com/rupin2207/IndianSignLanguageToRegionalTextUsingYOLOv8) | Python · Flask · YOLOv8 · TensorFlow · OpenCV | Real-time Indian Sign Language recognition → multilingual text output. Gesture-to-text pipeline using YOLOv8 with live webcam feed and regional language translation. |
 | [⚡ EV Analysis Dashboard](https://github.com/rupin2207/EV-Vehicle-Analysis) | Power BI · DAX · SQL · Data Visualization | Analyzed **150,000+ EV records**. Visualized BEV vs PHEV trends, CAFV eligibility, top brands, avg range, and regional market patterns with interactive filter panels and drill-through. |
 | [🩸 Blood Bank Management System](https://github.com/rupin2207) | Python · SQL · Flask · HTML · CSS | Secure role-based login for admins, hospitals, and donors. Optimized donor-recipient matching with SQL filtering and Python validation logic. |
+| [🏥 NexaCare – Healthcare Management Portal ](https://github.com/rupin2207/HospitalManagementSystem-Nexacare)| Python · Flask · MySQL · Jinja2 · HTML/CSS | Full-stack healthcare platform with secure role-based access for Admins, Doctors, and Patients. Features appointment management, doctor scheduling, clinical notes, patient records, and session-based authentication with MySQL-backed data management. |
 
 </div>
 
